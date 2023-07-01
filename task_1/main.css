@@ -1,0 +1,17 @@
+table { 
+    border: 1px solid #000; 
+    border-spacing: 0;
+}
+td {
+    border: 1px solid #000;
+    padding: 2px;
+}
+tr:nth-child(1) {
+    background: #79e7ff;
+}
+.green {
+    background-color: rgb(142, 251, 142);
+}
+.blue {
+    background-color: rgb(126, 137, 255);
+}
